@@ -1,0 +1,28 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[ExtractDialog]
+1920x1080 screen: Height=974
+1920x1080 screen: Width=904
+DirHistory[$e]=$HOME/
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,2,9,19,16,27.652
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME/bocchiconfig,file:$HOME/bocchiconfig
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1536x864 screen: Height=566
+1536x864 screen: Width=440
+1920x1080 screen: Height=566
+1920x1080 screen: Width=440
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled

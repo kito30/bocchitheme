@@ -1,0 +1,35 @@
+[KFileDialog Settings]
+Recent Files[$e]=c316f3fa-2091-46f3-92ad-1637a7657d44.png,file:$HOME/OneDrive_Kito/animepic/Screenshot 2022-11-20 172351.png,file:$HOME/OneDrive_Kito/animepic/c316f3fa-2091-46f3-92ad-1637a7657d44.png
+Recent URLs[$e]=file:$HOME/OneDrive_Kito/animepic/,file:$HOME/,file:$HOME/OneDrive_Kito/
+detailViewIconSize=48
+
+[KPropertiesDialog]
+1920x1080 screen: Height=495
+1920x1080 screen: Width=402
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 47]
+floating=1
+panelOpacity=2
+
+[PlasmaViews][Panel 47][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 81]
+alignment=132
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 81][Defaults]
+maxLength=822
+minLength=112
+thickness=50
+
+[PlasmaViews][Panel 81][Horizontal1920]
+maxLength=822
+minLength=112
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js
